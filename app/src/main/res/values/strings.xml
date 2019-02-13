@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BusTracker - BUS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="select_route">Select Your Route</string>
+    <string-array name="routes">
+        <item>-Select a Route-</item>
+        <item>السوق العربي - المعمورة</item>
+        <item>السوق العربي - جبرة</item>
+        <item>السوق العربي - السوق المركزي</item>
+    </string-array>
+
+    <string name="select_route_mamora">Select Your Route</string>
+    <string-array name="routes_mamora">
+        <item>-Select a Route-</item>
+        <item>السوق العربي</item>
+        <item>المعمورة</item>
+    </string-array>
+
+    <string name="select_route_jabra">Select Your Route</string>
+    <string-array name="routes_jabra">
+        <item>-Select a Route-</item>
+        <item>السوق العربي</item>
+        <item>جبرة</item>
+
+    </string-array>
+
+    <string name="select_route_markazi">Select Your Route</string>
+    <string-array name="routes_markazi">
+        <item>-Select a Route-</item>
+        <item>السوق العربي</item>
+        <item>السوق المركزي</item>
+    </string-array>
+
+</resources>
